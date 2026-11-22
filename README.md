@@ -10,7 +10,7 @@
   [![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge)](#-license--credits)
 
   <p align="center">
-    <b>Crafted with ❤️ by Saklin for Hayati</b><br>
+    <b>Crafted with ❤️</b><br>
     An interactive 8-scene romantic presentation featuring modern CSS Glassmorphism, GSAP 3D spring dynamics, SVG vector mechanics, interactive balloon archery, and a 60 FPS GPU-accelerated fireworks bomb blast engine.
   </p>
 
